@@ -11,4 +11,4 @@ trends were noticeable. The Urban cities had the largest total of rides of the t
 Suburban with 490, followed by Rural with 78. Although Urban cities also had the highest amount of total fares at $39,854.38, the average fare per ride and the average fare per driver were the lowest, at $24.53 and $16.57 respectively. Based on this information, it appears
 that there is a correlation between total ride/driver amount and average fare per ride/per driver. Attached below is a table of this data.
 
-**City Ride Data ![City ride data] (https://github.com/swlim314/PyBer_Analysis_Week_5/blob/84ede77eb66b2131304f335476ad0230ba81c521/analysis/City%20ride%20data.png)
+**City Ride Data ![City ride data](https://github.com/swlim314/PyBer_Analysis_Week_5/blob/84ede77eb66b2131304f335476ad0230ba81c521/analysis/City%20ride%20data.png)
