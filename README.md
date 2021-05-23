@@ -12,6 +12,7 @@ Suburban with 490, followed by Rural with 78. Although Urban cities also had the
 that there is a correlation between total ride/driver amount and average fare per ride/per driver. Attached below is a table of this data.
 
 **City Ride Data**
+
 ![City ride data](https://github.com/swlim314/PyBer_Analysis_Week_5/blob/84ede77eb66b2131304f335476ad0230ba81c521/analysis/City%20ride%20data.png)
 
 With the line chart created, all three cities seemed to have an increase in fare total in the March time frame. There was a noticeable
